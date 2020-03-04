@@ -6,5 +6,5 @@
 ***
 
 ### 1. 安裝使用Vuex
-  * 安裝Vuex
-  * 開始使用Vuex
+  * [安裝Vuex](https://github.com/wu-shang-ru/Vuex/tree/master/useVuex/installVuex)
+  * [開始使用Vuex](https://github.com/wu-shang-ru/Vuex/tree/master/useVuex/startUseVuex)
