@@ -5,7 +5,9 @@
     1. Vuex存取是響應式的，當Vue組件從store中讀取狀態時，若資料產生變化，則相對應的組件也會更新。
     2. 在Vuex中不能直接更改store的狀態，唯一的方式是使用提交(commit)mutation，使得我們方便追蹤每一個狀態的變化。
     
-    安裝好Vuex後，創建一個store。
+    安裝好Vuex後，在相同資料夾中新增一個state.js，並輸入以下程式片段：
+    
+    * 路徑：/src/store/state.js
     
     ```
     //記得要先在開頭調用Vue.use(Vuex)
