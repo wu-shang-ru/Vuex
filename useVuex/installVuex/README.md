@@ -12,7 +12,11 @@
   npm install vuex --save
   ```
   
-  接著在Js檔
+  接著在src裡面創建一個store的資料夾，未來Vuex的Js檔都將放在這裡。
+  
+  新增一個Js檔並取名為index.js，並在裡面輸入以下內容：
+  
+  - 路徑：/src/store/index.js
   ```
   import Vuex from 'vuex'
   
