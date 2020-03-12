@@ -33,3 +33,13 @@
     ```
     
     我們一定得要利用commit的方式取用store狀態，而並非直接改變store.state.count，目的是為了更明確地追蹤狀態的變化。
+
+    而基本上在Vuex中commit語法會寫在呼叫的.vue的methods裡，如：
+
+    ```
+    methods: {
+      increment() {
+        this.$store.commit("INCREMENT"); //有在根節點輸入store
+      }
+    }
+    ```
