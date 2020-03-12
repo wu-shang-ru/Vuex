@@ -1,6 +1,6 @@
 # 核心概念
 
-1. State
+1. [State](https://github.com/wu-shang-ru/Vuex/tree/master/KeyConcept/State)
 2. Getter
 3. Mutation
 4. Action
