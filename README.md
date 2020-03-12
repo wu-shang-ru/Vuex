@@ -6,5 +6,13 @@
 ***
 
 ### 1. 安裝使用Vuex
-  * [安裝Vuex](https://github.com/wu-shang-ru/Vuex/tree/master/useVuex/installVuex)
-  * [開始使用Vuex](https://github.com/wu-shang-ru/Vuex/tree/master/useVuex/startUseVuex)
+  - [安裝Vuex](https://github.com/wu-shang-ru/Vuex/tree/master/useVuex/installVuex)
+  - [開始使用Vuex](https://github.com/wu-shang-ru/Vuex/tree/master/useVuex/startUseVuex)
+  
+### 2. 核心概念
+  - [State](https://github.com/wu-shang-ru/Vuex/tree/master/KeyConcept/State)
+  - Getter
+  - Mutation
+  - Action
+  - Module
+  
