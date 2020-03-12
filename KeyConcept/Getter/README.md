@@ -6,9 +6,9 @@
 4. [Action](https://github.com/wu-shang-ru/Vuex/tree/master/KeyConcept/Action)
 5. [Module](https://github.com/wu-shang-ru/Vuex/tree/master/KeyConcept/Module)
 
-# Getter
-
 ***
+
+# Getter
 
 有時候我們需要從store中派出一些狀態，如對列表過濾並記數：
 
