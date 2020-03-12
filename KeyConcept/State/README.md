@@ -1,10 +1,10 @@
 # 核心概念
 
 1. [State](https://github.com/wu-shang-ru/Vuex/tree/master/KeyConcept/State)
-2. Getter
-3. Mutation
-4. Action
-5. Module
+2. [Getter](https://github.com/wu-shang-ru/Vuex/tree/master/KeyConcept/Getter)
+3. [Mutation](https://github.com/wu-shang-ru/Vuex/tree/master/KeyConcept/Mutation)
+4. [Action](https://github.com/wu-shang-ru/Vuex/tree/master/KeyConcept/Action)
+5. [Module](https://github.com/wu-shang-ru/Vuex/tree/master/KeyConcept/Module)
 
 ***
 

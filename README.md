@@ -11,8 +11,8 @@
   
 ### 2. 核心概念
   - [State](https://github.com/wu-shang-ru/Vuex/tree/master/KeyConcept/State)
-  - Getter
-  - Mutation
-  - Action
-  - Module
+  - [Getter](https://github.com/wu-shang-ru/Vuex/tree/master/KeyConcept/Getter)
+  - [Mutation](https://github.com/wu-shang-ru/Vuex/tree/master/KeyConcept/Mutation)
+  - [Action](https://github.com/wu-shang-ru/Vuex/tree/master/KeyConcept/Action)
+  - [Module](https://github.com/wu-shang-ru/Vuex/tree/master/KeyConcept/Module)
   
